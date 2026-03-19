@@ -1,9 +1,13 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6a00ff&height=200&section=header&text=Rave271&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6a00ff&height=200&section=header&text=Rave271&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&descAlignY=55"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=9F7AEA&center=true&vCenter=true&width=600&lines=Raghav+Verma;Systems+%7C+AI+%7C+Software;Quietly+building+things+that+work"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=9F7AEA&center=true&vCenter=true&width=700&lines=Raghav+Verma;ML+%7C+Systems+%7C+Full+Stack;Quietly+building+things+that+work"/>
+</p>
+
+<p align="center">
+<i>machine learning • systems • full stack</i>
 </p>
 
 ---
@@ -21,9 +25,19 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Java-0f0f0f?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-0f0f0f?style=for-the-badge&logo=kotlin&logoColor=7f52ff"/>
-<img src="https://img.shields.io/badge/Node.js-0f0f0f?style=for-the-badge&logo=node.js&logoColor=6DA55F"/>
-<img src="https://img.shields.io/badge/MongoDB-0f0f0f?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+
+<img src="https://img.shields.io/badge/MERN-0f0f0f?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+
+<img src="https://img.shields.io/badge/Python-0f0f0f?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
+<img src="https://img.shields.io/badge/Keras-0f0f0f?style=for-the-badge&logo=keras&logoColor=D00000"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-0f0f0f?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+
+<img src="https://img.shields.io/badge/Pandas-0f0f0f?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-0f0f0f?style=for-the-badge&logo=numpy&logoColor=013243"/>
+
 <img src="https://img.shields.io/badge/Linux-0f0f0f?style=for-the-badge&logo=linux&logoColor=white"/>
 
 </p>
@@ -46,4 +60,28 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Rave271&theme=tokyonight&hide_border=true&background=00000000"/>
+</p>
+
+---
+
+### Philosophy
+
+<p align="center">
+
+```
+quiet systems
+sharp logic
+beautiful code
+```
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rave271/Rave271/output/github-contribution-grid-snake.svg"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:0f0f0f&height=120&section=footer"/>
 </p>
