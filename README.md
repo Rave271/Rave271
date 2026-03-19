@@ -1,26 +1,26 @@
+<!-- ORANGE VAPORWAVE GRID BANNER -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6a00ff&height=200&section=header&text=Rave271&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=RAVE271&font=Orbitron&fontSize=55&fontColor=ffffff&color=0:0f0f0f,100:ff7a18"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=9F7AEA&center=true&vCenter=true&width=700&lines=Raghav+Verma;ML+%7C+Systems+%7C+Full+Stack;Quietly+building+things+that+work"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3000&color=FF7A18&center=true&vCenter=true&width=700&lines=Raghav+Verma;Machine+Learning+%7C+Systems+%7C+Full+Stack;Quietly+building+things+that+work"/>
 </p>
 
 <p align="center">
-<i>machine learning • systems • full stack</i>
-</p>
-
----
-
-### Presence
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rave271&color=grey&style=flat-square">
+machine learning • systems • full stack
 </p>
 
 ---
 
-### Stack
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rave271&color=ff7a18&style=flat-square">
+</p>
+
+---
+
+## STACK
 
 <p align="center">
 
@@ -44,27 +44,27 @@
 
 ---
 
-### Activity
+## ACTIVITY
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rave271&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rave271&show_icons=true&theme=transparent&title_color=ff7a18&icon_color=ff7a18&text_color=ffffff"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rave271&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rave271&layout=compact&theme=transparent&title_color=ff7a18&text_color=ffffff&hide=html,css,jupyter%20notebook"/>
 
 </p>
 
 ---
 
-### Streak
+## STREAK
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Rave271&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://streak-stats.demolab.com?user=Rave271&theme=dark&ring=ff7a18&fire=ff7a18&currStreakLabel=ff7a18"/>
 </p>
 
 ---
 
-### Philosophy
+## PHILOSOPHY
 
 <p align="center">
 
@@ -82,6 +82,4 @@ beautiful code
 <img src="https://raw.githubusercontent.com/Rave271/Rave271/output/github-contribution-grid-snake.svg"/>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:0f0f0f&height=120&section=footer"/>
-</p>
+---
